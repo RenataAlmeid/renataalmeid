@@ -1,6 +1,6 @@
 # Hey! Eu sou a Renata Almeida 🙋‍♀️ 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( linkedin.com/in/renataalmeida4)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renataalmeida4)
  
  <div>
     <a href = "https://github.com/RenataAlmeid">
